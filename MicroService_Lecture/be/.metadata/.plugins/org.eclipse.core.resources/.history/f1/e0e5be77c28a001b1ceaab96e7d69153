@@ -1,0 +1,26 @@
+package com.example.demo.sec.domain;
+
+import java.io.Serializable;
+import java.security.Principal;
+import java.util.Collection;
+
+import org.springframework.security.core.GrantedAuthority;
+
+public interface Authentication extends Principal, Serializable{
+	// ?òÑ?û¨ ?Ç¨?ö©?ûê?ùò Í∂åÌïú Î™©Î°ù?ùÑ Í∞??†∏?ò¥
+     Collection<? extends GrantedAuthority> getAuthorities();
+
+    // credentials(Ï£ºÎ°ú ÎπÑÎ?Î≤àÌò∏)?ùÑ Í∞??†∏?ò¥
+    Object getCredentials();
+
+    Object getDetails();
+
+    // Principal Í∞ùÏ≤¥Î•? Í∞??†∏?ò¥.
+    Object getPrincipal();
+
+    // ?ù∏Ï¶? ?ó¨Î∂?Î•? Í∞??†∏?ò¥
+    boolean isAuthenticated();
+
+    // ?ù∏Ï¶? ?ó¨Î∂?Î•? ?Ñ§?†ï?ï®
+    void setAuthenticated(boolean isAuthenticated) throws IllegalArgumentException;
+}

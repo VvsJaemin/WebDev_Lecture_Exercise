@@ -1,0 +1,51 @@
+package com.example.demo.sec.config;
+
+import java.util.Arrays;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
+import org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder;
+import org.springframework.security.config.annotation.method.configuration.EnableGlobalMethodSecurity;
+import org.springframework.security.config.annotation.web.builders.HttpSecurity;
+import org.springframework.security.config.annotation.web.configuration.EnableWebSecurity;
+import org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter;
+import org.springframework.security.config.http.SessionCreationPolicy;
+import org.springframework.security.core.userdetails.UserDetailsService;
+import org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter;
+import org.springframework.web.cors.CorsConfiguration;
+import org.springframework.web.cors.CorsConfigurationSource;
+import org.springframework.web.cors.UrlBasedCorsConfigurationSource;
+
+import com.example.demo.sec.domain.JwtTokenProvider;
+import com.example.demo.sec.filter.CustomAuthenticationEntryPoint;
+import com.example.demo.sec.filter.JwtAuthenticationFilter;
+import com.example.demo.uss.service.UserServiceImpl;
+
+import lombok.RequiredArgsConstructor;
+
+@Configuration
+@EnableWebSecurity
+@EnableGlobalMethodSecurity(prePostEnabled = true, securedEnabled = true, jsr250Enabled = true)
+public class WebSecurityConfigurer extends WebSecurityConfigurerAdapter {
+	@Autowired
+	JwtTokenProvider jwtTokenProvider;
+
+
+	@Override
+	protected void configure(HttpSecurity http) throws Exception {
+		http.httpBasic().disable().csrf().disable().sessionManagement()
+				.sessionCreationPolicy(SessionCreationPolicy.STATELESS).and().authorizeRequests() // ?ã§?ùå Request?óê ???ïú ?Ç¨?ö©Í∂åÌïú
+																									// Ï≤¥ÌÅ¨
+				.antMatchers("/*/login", "/*/signUp").permitAll() // Í∞??ûÖ Î∞? ?ù∏Ï¶? Ï£ºÏÜå?äî ?àÑÍµ¨ÎÇò ?†ëÍ∑? Í∞??ä•
+				.anyRequest().hasRole("USER") // Í∑∏Ïô∏ ?ÇòÎ®∏Ï? ?öîÏ≤??? Î™®Îëê ?ù∏Ï¶ùÎêú ?öå?õêÎß? ?†ëÍ∑? Í∞??ä•
+				.and().exceptionHandling().authenticationEntryPoint(new CustomAuthenticationEntryPoint()).and()
+				.addFilterBefore(new JwtAuthenticationFilter(jwtTokenProvider),
+						UsernamePasswordAuthenticationFilter.class);
+
+	}
+	
+
+  
+
+}

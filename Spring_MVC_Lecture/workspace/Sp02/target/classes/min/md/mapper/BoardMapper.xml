@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="min.md.mapper.BoardMapper">
+
+	<select id="getList" resultType="board">
+
+		SELECT*FROM BOARD order by SEQ desc
+
+	</select>  
+
+	<insert id="insert" parameterType="board">
+
+		insert into BOARD
+		values(BOARD_SEQ.nextval, #{subject}, #{content},
+		#{writer}, #{email},
+		SYSDATE)
+
+	</insert>
+
+	<select id="read" resultType="board">
+
+		SELECT * FROM BOARD where SEQ =
+		#{SEQ}
+
+	</select>
+
+	<select id="getListWithPaging" resultType="board">
+	
+		<![CDATA[
+		SELECT * FROM (SELECT rownum rn, seq, subject, content, writer, email, rdate FROM BOARD WHERE rownum <=#{pageNum} * #{amount})
+		where rn > (#{pageNum}-1) * #{amount} ]]>
+	
+	</select> 
+
+	<update id="update">
+
+		update BOARD set writer=#{writer}, email=#{email}, subject=#{subject}, content=#{content} where seq = #{seq}
+
+	</update>
+
+	<delete id="delete" parameterType="long">
+
+		delete from BOARD where
+		SEQ=#{SEQ}
+
+	</delete>
+</mapper>

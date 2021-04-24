@@ -1,0 +1,31 @@
+package com.example.demo;
+
+import static com.example.demo.cmm.util.Proxy.rangeRandom;
+import static com.example.demo.cmm.util.Proxy.regdate;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class DemoApplication {
+
+	public static void main(String... args) {
+		SpringApplication.run(DemoApplication.class, args);
+
+		int year = rangeRandom.apply(1970, 2020);
+
+		if (year % 4 == 0 && year % 100 != 0 || year == 0) {
+
+		} else {
+			System.out.println(year);
+		}
+
+		int date = regdate.apply(1, 30); 
+		if(date % 4 == 0 || date % 6 == 0 || date % 9 == 0 || date % 11 == 0) {
+			
+		}else {
+			System.out.println(date);
+		}
+	}
+
+}

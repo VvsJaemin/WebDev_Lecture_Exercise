@@ -1,0 +1,4 @@
+[0319/233249.879:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+[0321/132339.833:ERROR:crash_report_database_win.cc(457)] unexpected header
+[0321/215243.267:ERROR:crash_report_database_win.cc(457)] unexpected header
+[0321/225129.340:ERROR:crash_report_database_win.cc(457)] unexpected header

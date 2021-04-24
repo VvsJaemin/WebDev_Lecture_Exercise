@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dbb8fdba-2c26-4dd9-b5bf-4e32e36ee59e" name="Default Changelist" comment="Javascript Lectures">
+      <change afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/frontend/src/components/BoardModifyForm.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/frontend/src/components/BoardRead.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/frontend/src/views/BoardModifyPage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/frontend/src/views/BoardReadPage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/java/com/example/demo/config/DBConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/java/com/example/demo/controller/request/RequestTestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/listImg.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/img/circle_resize.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/img/images.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/img/product.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/img/testImg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/spring/exercise/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/spring/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/frontend/src/components/BoardList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/frontend/src/components/BoardList.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/frontend/src/components/BoardRegisterForm.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/frontend/src/components/BoardRegisterForm.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/frontend/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/frontend/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/frontend/src/store/actions.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/frontend/src/store/actions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/frontend/src/views/BoardListPage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/frontend/src/views/BoardListPage.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/frontend/src/views/BoardRegisterPage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/frontend/src/views/BoardRegisterPage.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/frontend/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/frontend/src/views/Home.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/java/com/example/demo/DemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/java/com/example/demo/DemoApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/java/com/example/demo/controller/board/BoardController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/java/com/example/demo/controller/board/BoardController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/java/com/example/demo/controller/data/ModelTestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/java/com/example/demo/controller/data/ModelTestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/java/com/example/demo/controller/exercise/ExerciseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/java/com/example/demo/controller/exercise/ExerciseController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/java/com/example/demo/controller/home/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/java/com/example/demo/controller/home/HomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/java/com/example/demo/controller/html_css/Html5Css3PageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/java/com/example/demo/controller/html_css/Html5Css3PageController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/java/com/example/demo/controller/http_method/HttpMethodTestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/java/com/example/demo/controller/http_method/HttpMethodTestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/java/com/example/demo/controller/member/MemberController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/java/com/example/demo/controller/member/MemberController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/java/com/example/demo/controller/nativeinterface/NativeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/java/com/example/demo/controller/nativeinterface/NativeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/java/com/example/demo/controller/parameter/ParameterTestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/java/com/example/demo/controller/parameter/ParameterTestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/java/com/example/demo/controller/path/PathVariableTestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/java/com/example/demo/controller/path/PathVariableTestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/java/com/example/demo/controller/proj/LogsignController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/java/com/example/demo/controller/proj/LogsignController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/java/com/example/demo/controller/response/ResponseTestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/java/com/example/demo/controller/response/ResponseTestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/java/com/example/demo/controller/response/ResponseTestRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/java/com/example/demo/controller/response/ResponseTestRestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/java/com/example/demo/controller/thymeleaf/ThymeLeafTestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/java/com/example/demo/controller/thymeleaf/ThymeLeafTestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/java/com/example/demo/controller/vue/VueBoardController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/java/com/example/demo/controller/vue/VueBoardController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/java/com/example/demo/entity/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/java/com/example/demo/entity/Board.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/java/com/example/demo/entity/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/java/com/example/demo/entity/Member.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/java/com/example/demo/entity/TestMember.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/java/com/example/demo/entity/TestMember.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/java/com/example/demo/game/DiceGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/java/com/example/demo/game/DiceGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/java/com/example/demo/repository/BoardRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/java/com/example/demo/repository/BoardRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/java/com/example/demo/repository/MemberRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/java/com/example/demo/repository/MemberRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/java/com/example/demo/service/BoardService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/java/com/example/demo/service/BoardService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/java/com/example/demo/service/BoardServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/java/com/example/demo/service/BoardServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/java/com/example/demo/service/MemberService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/java/com/example/demo/service/MemberService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/java/com/example/demo/service/MemberServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/java/com/example/demo/service/MemberServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/border/border.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/border/border.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/border/border2.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/border/border2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/border/border3.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/border/border3.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/border/border4.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/border/border4.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/border/border5.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/border/border5.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/border/border6.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/border/border6.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/border/border7.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/border/border7.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/box/box.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/box/box.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/box/box10.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/box/box10.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/box/box11.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/box/box11.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/box/box12.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/box/box12.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/box/box13.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/box/box13.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/box/box14.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/box/box14.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/box/box15.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/box/box15.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/box/box16.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/box/box16.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/box/box17.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/box/box17.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/box/box2.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/box/box2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/box/box3.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/box/box3.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/box/box4.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/box/box4.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/box/box5.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/box/box5.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/box/box6.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/box/box6.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/box/box7.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/box/box7.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/box/box8.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/box/box8.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/box/box9.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/box/box9.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/column-rule/column-rule.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/column-rule/column-rule.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/menubar/menubar.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/menubar/menubar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/overflow.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/overflow.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/selector/selector.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/selector/selector.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/selector/selector3.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/selector/selector3.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/selector/selector4.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/selector/selector4.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/selector/selector5.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/selector/selector5.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/selector/selector6.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/selector/selector6.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/selector/selector7.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/selector/selector7.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/selector/selector8.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/selector/selector8.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/textborder.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/textborder.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/variousFont.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/variousFont.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/vue/trans.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/css/vue/trans.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/img/cat.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/img/cat.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/img/circle.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/static/img/circle.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/border/webCustomTableBorderTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/border/webCustomTableBorderTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/border/webCustomTableBorderTest2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/border/webCustomTableBorderTest2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/border/webCustomTableBorderTest3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/border/webCustomTableBorderTest3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/border/webCustomTableBorderTest4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/border/webCustomTableBorderTest4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/border/webCustomTableBorderTest5.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/border/webCustomTableBorderTest5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/border/webCustomTableBorderTest6.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/border/webCustomTableBorderTest6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/border/webCustomTableBorderTest7.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/border/webCustomTableBorderTest7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/border/webTextBorderTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/border/webTextBorderTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/box/webBlockInlineTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/box/webBlockInlineTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/box/webBoxBorderStyleTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/box/webBoxBorderStyleTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/box/webBoxBorderStyleTest2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/box/webBoxBorderStyleTest2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/box/webBoxLayoutTest2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/box/webBoxLayoutTest2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/box/webBoxOutlineTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/box/webBoxOutlineTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/box/webBoxPaddingTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/box/webBoxPaddingTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/box/webBoxRoundTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/box/webBoxRoundTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/box/webBoxSizingTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/box/webBoxSizingTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/box/webBoxSubRoundTest2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/box/webBoxSubRoundTest2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/box/webBoxTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/box/webBoxTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/box/webInlineBlockTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/box/webInlineBlockTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/box/webNavUlLiBoxTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/box/webNavUlLiBoxTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/box/webNavUlLiBoxTest2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/box/webNavUlLiBoxTest2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/column-rule/webColumnRuleTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/column-rule/webColumnRuleTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/custom/webCustomUlTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/custom/webCustomUlTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/menubar/webMenuDropDownTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/menubar/webMenuDropDownTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/multimedia/webPlayMP3Test.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/multimedia/webPlayMP3Test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/multimedia/webPlayVideoTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/multimedia/webPlayVideoTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/overflow/webOverflowTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/overflow/webOverflowTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/selector/webSelectTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/selector/webSelectTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/selector/webSelectTest2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/selector/webSelectTest2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/selector/webSelectTest3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/selector/webSelectTest3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/selector/webSelectTest4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/selector/webSelectTest4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/selector/webSelectTest5.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/selector/webSelectTest5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/selector/webSelectTest6.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/selector/webSelectTest6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/selector/webSelectTest7.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/selector/webSelectTest7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/selector/webSelectTest8.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/html_css/selector/webSelectTest8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/spring/board/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/spring/board/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/spring/board/modify.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/spring/board/modify.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/spring/board/read.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/spring/board/read.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/spring/board/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/spring/board/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/spring/board/remove.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/spring/board/remove.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/spring/http_method/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/spring/http_method/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/spring/model/modelDate.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/spring/model/modelDate.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/spring/parameter/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/spring/parameter/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/spring/parameter/modify.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/spring/parameter/modify.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/spring/parameter/read.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/spring/parameter/read.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/spring/parameter/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/spring/parameter/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/spring/parameter/remove.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/spring/parameter/remove.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/spring/real_board/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/spring/real_board/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/spring/real_board/modify.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/spring/real_board/modify.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/spring/real_board/read.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/spring/real_board/read.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/spring/real_board/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/spring/real_board/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/spring/request/registerForm.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/spring/request/registerForm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/spring/thyme/hobbyForm.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/spring/thyme/hobbyForm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/spring/thyme/registerForm.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/spring/thyme/registerForm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/spring/thyme/result.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SPRING/ParkJaemin/demo/src/main/resources/templates/spring/thyme/result.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1ngx1tBRffnVMBl5naVYb2JxUD9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Markdown" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/210203/Review Note" />
+      <recent name="$PROJECT_DIR$/src/210203/Set-Test" />
+      <recent name="$PROJECT_DIR$/src/210201/object-test" />
+      <recent name="$PROJECT_DIR$/src/Homework" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dbb8fdba-2c26-4dd9-b5bf-4e32e36ee59e" name="Default Changelist" comment="" />
+      <created>1611825322498</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611825322498</updated>
+      <workItem from="1611825324437" duration="1167000" />
+      <workItem from="1611826500047" duration="1542000" />
+      <workItem from="1611828417718" duration="2793000" />
+      <workItem from="1612139242608" duration="238000" />
+      <workItem from="1612139505873" duration="6372000" />
+      <workItem from="1612150840117" duration="24390000" />
+      <workItem from="1612180043941" duration="40000" />
+      <workItem from="1612312731948" duration="27752000" />
+      <workItem from="1612485156228" duration="2581000" />
+      <workItem from="1614128826887" duration="781000" />
+      <workItem from="1614129994737" duration="599000" />
+      <workItem from="1614137146322" duration="14000" />
+    </task>
+    <task id="LOCAL-00001" summary="Javascript Lectures">
+      <created>1611825476139</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611825476139</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Javascript Lectures" />
+    <option name="LAST_COMMIT_MESSAGE" value="Javascript Lectures" />
+  </component>
+</project>
